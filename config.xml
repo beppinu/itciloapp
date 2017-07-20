@@ -5,14 +5,14 @@
         id        = "net.moodle.learn"
         versionCode = "3"
         version   = "1.2">
-    <name>Learn Moodle</name>
+    <name>ITCILO Ecamps App</name>
 
     <description>
-        Learn Moodle
+        ITCILO Ecamps App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+        ITCILO Ecamps App
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
