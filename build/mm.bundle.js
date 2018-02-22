@@ -527,8 +527,8 @@ angular.module('mm.addons.mod_wiki').factory('$mmaModWikiSync', ["$q", "$log", 
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "org.itcilo.ecampustest",
-    "appname": "Ecampus Mobile App",
+    "app_id" : "org.itcilo.ecampus",
+    "appname": "ITCILO Ecamps App",
     "versioncode" : "2018",
     "versionname" : "3.3.0",
     "cache_expiration_time" : 300000,
@@ -539,7 +539,7 @@ angular.module('mm.core')
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://ecampustest.itcilo.org/",
+    "siteurl": "https://ecampus.itcilo.org/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
